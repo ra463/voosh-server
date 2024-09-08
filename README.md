@@ -14,7 +14,7 @@
    - `GOOGLE_CLIENT_ID` [Your Google Console Client ID]
    - `GOOGLE_CLIENT_SECRET` [Your Google Console Client Secret]
 5. Add the client url (local/deployed) in the cors in `app.js` file.
-6. Start the server using `npm start`.
+6. Start the server using `npm run dev` (if nodemon is globally installed).
 
 ### Server Deployed Link - [https://voosh-app.adaptable.app]
 
