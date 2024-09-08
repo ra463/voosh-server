@@ -35,9 +35,7 @@ const sendData = async (res, statusCode, user, message) => {
 exports.registerUser = catchAsyncError(async (req, res, next) => {
   let { name, email, password } = req.body;
   const file = req.file;
-
-  console.log(req.body)
-
+  
   const emailRegex =
     /^\w+([\.-]?\w+)*@[a-z0-9]+([\.-]?[a-z0-9]+)*(\.[a-z]{2,3})+$/;
   if (!emailRegex.test(email)) {
