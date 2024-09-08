@@ -16,6 +16,17 @@
 5. Add the client url (local/deployed) in the cors in `app.js` file.
 6. Start the server using `npm run dev` (if nodemon is globally installed).
 
+## Testing Instructions
+
+### To test the APIs:
+
+**Run the test files using:**
+
+- npm test
+- Ensure that Mocha, Chai, and other testing dependencies are installed.
+- The test cases are located in the test folder.
+- The testing covers user registration, login, and various failure cases.
+
 ### Server Deployed Link - [https://voosh-app.adaptable.app]
 
 ### Client Deployed Link - [https://voosh-client-rust.vercel.app]
