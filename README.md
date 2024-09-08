@@ -21,9 +21,8 @@
 ### To test the APIs:
 
 **Beaware - By Running the test the Data from the database is also deteled**
-**Run the test files using:**
+**Run the test files using:** - `npm test`
 
-- npm test
 - Ensure that Mocha, Chai, and other testing dependencies are installed.
 - The test cases are located in the test folder.
 - The testing covers user registration, login, and various failure cases.
