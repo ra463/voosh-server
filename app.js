@@ -3,7 +3,6 @@ const cors = require("cors");
 const app = express();
 const { error } = require("./middlewares/error.js");
 const helmet = require("helmet");
-
 const dotenv = require("dotenv");
 
 dotenv.config({ path: "./config/config.env" });
