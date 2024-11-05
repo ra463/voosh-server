@@ -28,9 +28,9 @@
 - The test cases are located in the test folder.
 - The testing covers user registration, login, and various failure cases.
 
-### Server Deployed Link - [https://voosh-app.adaptable.app]
+### Server Deployed Link - [https://voosh-server-32um.onrender.com]
 
-### Client Deployed Link - [https://voosh-client-rust.vercel.app]
+### Client Deployed Link - [https://voosh-client-chi.vercel.app]
 
 ## Components
 
