@@ -15,6 +15,7 @@
    - `GOOGLE_CLIENT_SECRET` [Your Google Console Client Secret]
 5. Add the client url (local/deployed) in the cors in `app.js` file.
 6. Start the server using `npm run dev` (if nodemon is globally installed).
+7. If nodemon is not golbally installed then run this command to save add nodemon as devDependency - `npm i nodemon --save-dev`
 
 ## Testing Instructions
 
